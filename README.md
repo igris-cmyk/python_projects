@@ -1,3 +1,3 @@
-# python_projects.<br>
+# Python_Projects.<br>
 <h2>My python projects </h2>
 <h3>Author - Sahil Khursheed Bhat</h3>
